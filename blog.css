@@ -1,7 +1,7 @@
 div{
-    color: red;
     background-color: aqua;
     padding: 10px;
+    border: 20px;
 }
 p{
     color: magenta;
